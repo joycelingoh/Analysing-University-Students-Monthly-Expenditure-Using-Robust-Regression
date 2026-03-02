@@ -1,7 +1,6 @@
 # Analysis of University Students Monthly Expenditure Using Robust Regression in R
 
 ## Project Overview
-
 This project analyses university students’ monthly expenditure using Multiple Linear Regression (OLS) and Robust Regression (MM-estimator) in R.
 
 The objective is to identify financial and behavioural factors influencing total monthly spending while evaluating whether classical regression assumptions are satisfied. When assumption violations were detected, a robust regression model was implemented to obtain more stable and reliable parameter estimates.
@@ -21,10 +20,8 @@ The objective is to identify financial and behavioural factors influencing total
 * Price Comparison Habit (Likert 1–5)
 * Total Monthly Expenditure (Dependent Variable)
 
----
 
 ## Key Insights
-
 * Assumption Diagnostics (OLS):
 
   * Non-normal residuals (Lilliefors test, p < 0.05)
@@ -63,10 +60,8 @@ The objective is to identify financial and behavioural factors influencing total
 **Takeaway:**
 Financial capacity (income) is the dominant determinant of student spending. Robust regression provides substantially more stable and reliable estimates when classical OLS assumptions are violated.
 
----
 
 ## Tools & Methods
-
 * Language: R
 
 * Libraries:
@@ -86,18 +81,14 @@ Financial capacity (income) is the dominant determinant of student spending. Rob
   * Robust Regression (MM-estimator)
   * Model comparison (R², Adjusted R², Residual Standard Error)
 
----
 
 ## Results
-
 * Robust regression improved explanatory power significantly (R² increased from 0.62 to 0.882).
 * Residual error reduced by more than 50%.
 * Only income-related variable (monthly allowance) significantly explains total expenditure.
 * Behavioural financial indicators did not show measurable impact in this sample.
 
 This study highlights the importance of regression diagnostics and the practical value of robust statistical modelling in real-world data analysis.
-
----
 
 ## Future Work
 
@@ -107,4 +98,3 @@ This study highlights the importance of regression diagnostics and the practical
 * Develop interactive dashboards for financial behaviour visualization.
 * Extend analysis using machine learning models for predictive performance comparison.
 
----

@@ -108,7 +108,3 @@ This study highlights the importance of regression diagnostics and the practical
 * Extend analysis using machine learning models for predictive performance comparison.
 
 ---
-
-## About
-
-Analysis of University Students’ Monthly Expenditure Using Robust Regression in R

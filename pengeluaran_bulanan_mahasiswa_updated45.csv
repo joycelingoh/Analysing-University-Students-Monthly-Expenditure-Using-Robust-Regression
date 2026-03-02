@@ -1,0 +1,54 @@
+Timestamp,Jenis kelamin,Binusian,"Program Studi (jurusan)
+contoh: Computer Science","Berapa rata-rata uang saku yang Anda terima per bulan (rupiah)?  
+contoh: 1234000",Dimana Anda tinggal selama kuliah?  ,"
+Berapa total pengeluaran Anda dalam 1 bulan terakhir (rupiah)?  
+contoh: 1234000","Berapa kali Anda makan di luar dalam 1 minggu (angka)?  
+contoh: 6
+","Berapa kali Anda melakukan kegiatan hiburan/nongkrong dalam 1 minggu  (angka)?  
+contoh: 2","Berapa total pengeluaran transportasi Anda dalam 1 bulan terakhir (rupiah)?  
+contoh: 1234000",Saya membuat anggaran/budget bulanan. ,Saya mencatat pengeluaran saya secara rutin  ,Saya menyisihkan uang untuk ditabung di awal bulan.   ,Saya sering membeli sesuatu secara impulsif.  ,Saya membandingkan harga sebelum membeli barang.  
+11/25/2025 15:31,Laki-laki,Binusian 26,Computer Science,4000000,Kos/Apartemen,2500000,14,3,200000,2,1,4,2,5
+11/25/2025 15:35,Perempuan,Binusian 27,Computer Science and Statistics ,2000000,Bersama orang tua,1156000,1,2,132000,4,5,4,1,4
+11/25/2025 15:36,Perempuan,Binusian 27,Computer Science and Statistics,3000000,Bersama orang tua,3000000,7,2,1500000,2,2,4,3,2
+11/25/2025 15:36,Perempuan,Binusian 27,Computer Science and Statistics,2000000,Bersama orang tua,900000,3,1,300000,4,3,5,2,4
+11/25/2025 15:37,Perempuan,Binusian 27,Data Science ,3500000,Bersama orang tua,3500000,6,3,2000000,3,5,3,2,5
+11/25/2025 15:37,Laki-laki,Binusian 27,Desain Komunitas Visual,1200000,Kos/Apartemen,1000000,7,2,200000,4,4,5,3,5
+11/25/2025 15:37,Laki-laki,Binusian 28,Computer Science,2000000,Bersama orang tua,1500000,2,3,100000,5,4,3,4,2
+11/25/2025 15:38,Laki-laki,Binusian 28,Computer Science,1400000,Bersama orang tua,750000,4,1,200000,3,3,2,3,5
+11/25/2025 15:39,Laki-laki,Binusian 27,Accounting,2000000,Kos/Apartemen,2500000,6,1,60000,2,2,4,3,4
+11/25/2025 15:39,Perempuan,Binusian 27,Computer Science and Statistics ,3000000,Kos/Apartemen,2000000,7,2,60000,5,4,5,4,5
+11/25/2025 15:39,Perempuan,Binusian 27,Data Science,2000000,Bersama orang tua,1500000,4,1,150000,3,5,5,4,5
+11/25/2025 15:39,Laki-laki,Binusian 27,Data Science,4000000,Kos/Apartemen,3500000,7,1,300000,5,5,5,3,5
+11/25/2025 15:40,Laki-laki,Binusian 27,Management,2500000,Kos/Apartemen,1500000,5,1,30000,4,4,3,3,5
+11/25/2025 15:41,Perempuan,Binusian 27,Computer Science and Statistics ,1000000,Kos/Apartemen,1500000,3,1,700000,1,1,3,5,5
+11/25/2025 15:42,Perempuan,Binusian 27,Data Science,1000000,Bersama orang tua,800000,3,2,200000,2,1,5,4,5
+11/25/2025 15:45,Laki-laki,Binusian 27,Accounting,1000000,Kos/Apartemen,750000,3,2,65000,2,2,3,4,5
+11/25/2025 15:48,Perempuan,Binusian 27,Accounting,500000,Bersama orang tua,150000,1,1,0,1,1,4,1,5
+11/25/2025 15:49,Laki-laki,Binusian 27,Information Systems & Accounting,2000000,Bersama orang tua,2000000,5,2,300000,4,4,4,2,5
+11/25/2025 15:51,Laki-laki,Binusian 27,Desain komunikasi visual,2000000,Kos/Apartemen,1000000,4,1,50000,3,3,4,4,4
+11/25/2025 15:51,Perempuan,Binusian 27,Accounting,100000,Bersama orang tua,80000,1,1,9000,2,4,4,2,5
+11/25/2025 15:58,Perempuan,Binusian 27,Data Science,2500000,Kos/Apartemen,2000000,5,1,200000,4,3,4,4,5
+11/25/2025 16:01,Perempuan,Binusian 27,Computer Science & Statistics,4000000,Bersama orang tua,5000000,6,1,400000,2,3,4,3,4
+11/25/2025 16:02,Laki-laki,Binusian 27,Computer Science Master Track,2500000,Kos/Apartemen,1800000,1,1,90000,1,1,4,2,5
+11/25/2025 16:05,Laki-laki,Binusian 27,DKV,2000000,Kos/Apartemen,1400000,14,3,200000,4,2,5,3,5
+11/25/2025 16:09,Perempuan,Binusian 27,Accounting ,3000000,Kos/Apartemen,2000000,5,3,500000,5,3,5,2,5
+11/25/2025 16:09,Perempuan,Binusian 27,Master of Information Technology ,3500000,Bersama orang tua,2000000,4,2,200000,2,2,5,5,2
+11/25/2025 16:12,Laki-laki,Binusian 27,IBM,3000000,Kos/Apartemen,3000000,5,3,500000,2,2,3,4,5
+11/25/2025 16:15,Perempuan,Binusian 27,Data Science,1500000,Bersama orang tua,2000000,10,5,150000,5,5,5,5,5
+11/25/2025 16:18,Laki-laki,Binusian 27,Marketing Communication,3000000,Kos/Apartemen,2000000,6,2,600000,3,5,5,5,5
+11/25/2025 16:24,Perempuan,Binusian 27,Computer Science and Statistics,3000000,Kos/Apartemen,2500000,5,2,500000,4,4,3,2,5
+11/25/2025 16:36,Perempuan,Binusian 27,Computer Science and Statistics,4000000,Kos/Apartemen,3000000,4,1,100000,5,5,5,3,5
+11/25/2025 16:47,Perempuan,Binusian 27,sipil,1000000,Bersama orang tua,6000000,1,1,300000,3,3,3,2,5
+11/25/2025 17:03,Laki-laki,Binusian 27,Data science,1000000,Kos/Apartemen,2000000,10,2,200000,3,2,5,1,5
+11/25/2025 17:33,Perempuan,Binusian 28,Computer Science and Statistics,5000000,Kos/Apartemen,4000000,5,2,500000,4,4,1,3,4
+11/25/2025 17:35,Perempuan,Binusian 27,Management,2500000,Bersama orang tua,1500000,5,2,40000,3,4,5,4,5
+11/25/2025 17:44,Perempuan,Binusian 28,Accounting,4500000,Kos/Apartemen,4000000,7,4,500000,5,5,4,5,5
+11/25/2025 17:44,Laki-laki,Binusian 28,Computer Science,2000000,Kos/Apartemen,2000000,7,2,100000,5,5,4,2,3
+11/25/2025 17:45,Laki-laki,Binusian 28,Computer Science,2000000,Bersama orang tua,4000000,4,1,0,1,1,1,5,3
+11/25/2025 17:57,Laki-laki,Binusian 27,Taxation,3500000,Kos/Apartemen,3000000,7,4,600000,1,1,1,5,3
+11/25/2025 19:02,Laki-laki,Binusian 28,Comp Science n Stat,6000000,Kos/Apartemen,2500000,0,1,40000,2,2,5,3,5
+11/25/2025 19:14,Perempuan,Binusian 28,Marketing Communication,5000000,Kos/Apartemen,4000000,6,2,900000,5,5,5,2,5
+11/25/2025 19:14,Laki-laki,Binusian 28,Business Law ,9000000,Kos/Apartemen,8000000,7,4,500000,1,2,4,5,3
+11/25/2025 19:30,Laki-laki,Binusian 28,Computer Science & Statistics,1500000,Bersama orang tua,1000000,4,2,300000,4,4,4,2,5
+11/25/2025 19:37,Perempuan,Binusian 28,Architecture,5000000,Kos/Apartemen,3800000,5,0,50000,3,5,3,1,5
+11/25/2025 19:45,Perempuan,Binusian 28,Mass Communication,2000000,Kos/Apartemen,1300000,13,5,50000,3,3,4,4,3
